@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+
+    <title>Download do meu app</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <meta name="description" content="SITE DEMO FEITO PELA @Thitidev">
+
+    <script>
+
+var contador = localStorage.getItem("contador") || 0;
+
+contador++;
+
+localStorage.setItem("contador", contador);
+
+document.getElementById("contador").innerHTML = "Este site teve " + contador + " visitas";
+
+</script>
+
+</head>
+
+ <!-- FUNDO DA FOTO ! E SO TROCAR A URL OK ? -->
+
+<body style="background-image: url('https://painel.lmhostbr.shop/fundo.jpg');">
+
+  <!-- conteúdo da página -->
+
+    <div style="text-align: center;">
+
+         <!-- FOTO DE SEU APP AQUI -->
+
+        <img src="./app-icon.png" alt="Ícone do meu app" width="200">
+
+       <h1 style="color: white;">Baixe meu app</h1>
+
+        <h2 style="color: white;">Clique no botão abaixo para fazer o download:</h2>
+
+        <a href="./download/sitev2.zip" class="botao">DOWNLOAD</a>
+
+        <br>
+
+        <br>
+
+            <a href="https://api.whatsapp.com/send?phone=SEU_NUMERO_DE_TELEFONE" class="whatsapp-button">Enviar mensagem pelo WhatsApp</a>
+
+            <br>
+
+            <br>
+
+            <div class="plan">
+
+		<h2>Plano Básico</h2>
+
+		<p class="price">R$ 9.99/mês</p>
+
+		<ul>
+
+			<li>1 usuário</li>
+
+			<li>Suporte limitado</li>
+
+			<li>Servidor Brasileiro</li>
+
+		</ul>
+
+	<a href="#" class="btn">Selecionar</a>
+
+	</div>
+
+
+
+	<div class="plan">
+
+		<h2>Plano Padrão</h2>
+
+		<p class="price">R$ 19.99/mês</p>
+
+		<ul>
+
+			<li>2 usuários</li>
+
+			<li>Suporte completo</li>
+
+			<li>Servidor Brasileiro</li>
+
+		</ul>
+
+	<a href="#" class="btn">Selecionar</a>
+
+	</div>
+
+	
+
+<br>
+
+	<br>
+
+	<br>
+
+	<br><br>
+
+	<br>
+
+ <!-- CSS DIRETO NA PAGINA  -->
+
+<style>
+
+.botao {
+
+  background: linear-gradient(to bottom, #f7de1d, #f0b60d);
+
+  border: none;
+
+  color: white;
+
+  padding: 10px 20px;
+
+  text-align: center;
+
+  text-decoration: none;
+
+  display: inline-block;
+
+  font-size: 18px;
+
+  border-radius: 5px;
+
+  cursor: pointer;
+
+}
+
+body {
+
+        position: relative;
+
+        min-height: 100vh;
+
+      }
+
+      .whatsapp-button {
+
+        display: inline-block;
+
+        font-weight: bold;
+
+        text-align: center;
+
+        vertical-align: middle;
+
+        cursor: pointer;
+
+        background-color: #25d366;
+
+        color: white;
+
+        padding: 10px 20px;
+
+        border: none;
+
+        border-radius: 25px;
+
+        text-decoration: none;
+
+        font-size: 18px;
+
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+
+      }
+
+      .whatsapp-button:hover {
+
+        background-color: #128c7e;
+
+      }
+
+</style>
+
+
+
+
+
+    <footer>
+
+    </footer>
+
+  </body>
+
+</html>
