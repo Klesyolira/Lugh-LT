@@ -1,5 +1,5 @@
 {
-   "Version":"7",
+   "Version":"9",
    "Ads": "off",
    "UpdateUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Config.json",
    "ReleaseNotes":"Default Notes",
@@ -7,7 +7,7 @@
    "Servers":[
       {
          "serverType":0,
-         "Name":"SERVER UP 1.1",
+         "Name":"SERVER 1.9",
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":2,
@@ -22,4 +22,3 @@
       }
    ]
 }
-
