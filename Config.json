@@ -21,11 +21,11 @@
          "Sni":"google.com"
       },
        {
-         "serverType":0,
+         "serverType":1,
          "Name":"SERVER 2",
          "Flag":"us",
          "Info":"SSH",
-         "tunnelType":2,
+         "tunnelType":1,
          "ServerHost":"ellus.shop",
          "ServerPort":"22",
          "ProxyHost":"151.244.242.235",
