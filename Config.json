@@ -7,7 +7,7 @@
    "Servers":[
       {
          "serverType":0,
-         "Name":"SERVER SSL",
+         "Name":"SERVER UP 1.0",
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":2,
