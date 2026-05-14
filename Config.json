@@ -1,13 +1,13 @@
 {
-   "Version":"13",
-   "Ads": "on",
+   "Version":"14",
+   "Ads": "off",
    "UpdateUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Config.json",
    "ReleaseNotes":"Default Notes",
    "Fundo":"https://pbs.twimg.com/media/HIIOredW8AEsTc0?format=jpg&name=large",
    "Servers":[
       {
          "serverType":0,
-         "Name":"SERVER 13.2",
+         "Name":"SERVER 13.3",
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":2,
