@@ -1,54 +1,39 @@
 {
-   "Version":"18",
-   "Ads": "off",
+   "Version":"19",
+   "Ads":"off",
    "UpdateUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Config.json",
    "ReleaseNotes":"Default Notes",
    "Fundo":"https://pbs.twimg.com/media/HIIOredW8AEsTc0?format=jpg&name=large",
    "Servers":[
       {
          "serverType":0,
-         "Name":"SERVER 1",
-         "Flag":"us",
-         "Info":"SSH",
-         "tunnelType":2,
-         "ServerHost":"127.0.0.1",
-         "ServerPort":"22",
-         "ProxyHost":"",
-         "ProxyPort":"",
-         "Username":"",
-         "Password":"",
-         "Payload":"",
-         "Sni":"google.com"
-      },
-             {
-         "serverType":0,
-         "Name":"SERVER 2",
+         "Name":"SERVER 02",
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":2,
          "ServerHost":"ellus.shop",
-         "ServerPort":"22",
+         "ServerPort":"80",
          "ProxyHost":"151.244.242.235",
          "ProxyPort":"80",
          "Username":"",
          "Password":"",
          "Payload":"[delay_split]ACL /HTTP/1.1 Host: plus.google.com[lf][lf] [lf][lf]",
          "Sni":"google.com"
-      },     
-       {
-         "serverType":1,
-         "Name":"SERVER 3",
+      },
+      {
+         "serverType":0,
+         "Name":"SERVER 03",
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":1,
          "ServerHost":"ellus.shop",
-         "ServerPort":"22",
+         "ServerPort":"80",
          "ProxyHost":"151.244.242.235",
          "ProxyPort":"80",
          "Username":"",
          "Password":"",
          "Payload":"[delay_split]ACL /HTTP/1.1 Host: plus.google.com[lf][lf] [lf][lf]",
          "Sni":"google.com"
-      }     
+      }
    ]
 }
