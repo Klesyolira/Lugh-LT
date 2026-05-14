@@ -1,13 +1,13 @@
-{
-   "Version":6,
-   "Ads": "on",
+
+   "Version":7,
+   "Ads": "off",
    "UpdateUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Config.json",
    "ReleaseNotes":"Default Notes",
    "Fundo":"https://pbs.twimg.com/media/HIL4ck5aIAATuX3?format=jpg&name=large",
    "Servers":[
       {
          "serverType":0,
-         "Name":"SERVER UP 1.0",
+         "Name":"SERVER UP 1.1",
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":2,
