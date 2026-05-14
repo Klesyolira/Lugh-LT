@@ -1,5 +1,5 @@
 {
-   "Version":"12",
+   "Version":"13",
    "Ads": "on",
    "UpdateUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Config.json",
    "ReleaseNotes":"Default Notes",
@@ -7,7 +7,7 @@
    "Servers":[
       {
          "serverType":0,
-         "Name":"SERVER 12",
+         "Name":"SERVER 13",
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":2,
