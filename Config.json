@@ -1,5 +1,5 @@
 {
-   "Version":"14",
+   "Version":"15",
    "Ads": "off",
    "UpdateUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Config.json",
    "ReleaseNotes":"Default Notes",
@@ -7,7 +7,7 @@
    "Servers":[
       {
          "serverType":0,
-         "Name":"SERVER 13.3",
+         "Name":"SERVER 1",
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":2,
@@ -19,6 +19,21 @@
          "Password":"",
          "Payload":"",
          "Sni":"google.com"
-      }
+      },
+       {
+         "serverType":0,
+         "Name":"SERVER 2",
+         "Flag":"us",
+         "Info":"SSH",
+         "tunnelType":2,
+         "ServerHost":"ellus.shop",
+         "ServerPort":"22",
+         "ProxyHost":"151.244.242.235",
+         "ProxyPort":"80",
+         "Username":"",
+         "Password":"",
+         "Payload":"[delay_split]ACL /HTTP/1.1 Host: plus.google.com[lf][lf] [lf][lf]",
+         "Sni":"google.com"
+      }     
    ]
 }
