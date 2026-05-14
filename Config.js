@@ -2,7 +2,7 @@
 {
    "Version":2,
    "Ads": "on",
-   "UpdateUrl":"",
+   "UpdateUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Config.js",
    "ReleaseNotes":"Default Notes",
    "Fundo":"https://pbs.twimg.com/media/HIL4ck5aIAATuX3?format=jpg&name=large",
    "Servers":[
