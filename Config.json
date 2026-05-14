@@ -37,7 +37,7 @@
       },     
        {
          "serverType":1,
-         "Name":"SERVER 2",
+         "Name":"SERVER 3",
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":1,
