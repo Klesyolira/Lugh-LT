@@ -19,7 +19,7 @@
          "Username":"",
          "Password":"",
          "Payload":"MERGE / HTTP/1.1[crlf]Host: am1.vpnjantit.com[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
-         "Sni":"whatsapp.com"
+         "Sni":"www.whatsapp.com"
       },
       {
          "serverType":0,
