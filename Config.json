@@ -1,6 +1,6 @@
 {
    
-   "Version":"25",
+   "Version":"26",
    "Ads":"off",
    "UpdateUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Config.json",
    "ReleaseNotes":"Default Notes",
@@ -44,11 +44,11 @@
          "tunnelType":2,
          "ServerHost":"am1.vpnjantit.com",
          "ServerPort":"80",
-         "ProxyHost":"194.156.103.162",
+         "ProxyHost":"104.26.15.206",
          "ProxyPort":"80",
          "Username":"",
          "Password":"",
-         "Payload":"GET / HTTP/1.1[crlf]Host: am1.vpnjantit.com[crlf]Upgrade: websocket[crlf][crlf]",
+         "Payload":"MERGE / HTTP/1.1[crlf]Host: am1.vpnjantit.com[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
          "Sni":"google.com"
       },
       {
@@ -59,11 +59,11 @@
          "tunnelType":1,
          "ServerHost":"am1.vpnjantit.com",
          "ServerPort":"80",
-         "ProxyHost":"194.156.103.162",
+         "ProxyHost":"104.26.13.206",
          "ProxyPort":"80",
          "Username":"",
          "Password":"",
-         "Payload":"GET / HTTP/1.1[crlf]Host: am1.vpnjantit.com[crlf]Upgrade: websocket[crlf][crlf]",
+         "Payload":"MERGE / HTTP/1.1[crlf]Host: am1.vpnjantit.com[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
          "Sni":"google.com"
       }    
    ]
