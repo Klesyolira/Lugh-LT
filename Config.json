@@ -1,6 +1,6 @@
 {
    
-   "Version":"27",
+   "Version":"28",
    "Ads":"off",
    "UpdateUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Config.json",
    "ReleaseNotes":"Default Notes",
@@ -13,9 +13,9 @@
          "Info":"SSH",
          "tunnelType":3,
          "ServerHost":"am1.vpnjantit.com",
-         "ServerPort":"80",
+         "ServerPort":"22",
          "ProxyHost":"104.26.15.206",
-         "ProxyPort":"80",
+         "ProxyPort":"443",
          "Username":"",
          "Password":"",
          "Payload":"MERGE / HTTP/1.1[crlf]Host: am1.vpnjantit.com[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
@@ -28,7 +28,7 @@
          "Info":"SSH",
          "tunnelType":1,
          "ServerHost":"am1.vpnjantit.com",
-         "ServerPort":"80",
+         "ServerPort":"22",
          "ProxyHost":"104.26.13.206",
          "ProxyPort":"80",
          "Username":"",
