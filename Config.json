@@ -1,47 +1,17 @@
 {
    
-   "Version":"26",
+   "Version":"27",
    "Ads":"off",
    "UpdateUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Config.json",
    "ReleaseNotes":"Default Notes",
    "Fundo":"https://pbs.twimg.com/media/HIIOredW8AEsTc0?format=jpg&name=large",
    "Servers":[
-      {
+        {
          "serverType":0,
          "Name":"SERVER 01",
          "Flag":"us",
          "Info":"SSH",
-         "tunnelType":2,
-         "ServerHost":"am1.vpnjantit.com",
-         "ServerPort":"80",
-         "ProxyHost":"194.156.103.162",
-         "ProxyPort":"80",
-         "Username":"",
-         "Password":"",
-         "Payload":"[delay_split]ACL /HTTP/1.1 Host: plus.google.com[lf][lf] [lf][lf]",
-         "Sni":"google.com"
-      },
-      {
-         "serverType":0,
-         "Name":"SERVER 02",
-         "Flag":"us",
-         "Info":"SSH",
-         "tunnelType":1,
-         "ServerHost":"am1.vpnjantit.com",
-         "ServerPort":"80",
-         "ProxyHost":"194.156.103.162",
-         "ProxyPort":"80",
-         "Username":"",
-         "Password":"",
-         "Payload":"[delay_split]ACL /HTTP/1.1 Host: plus.google.com[lf][lf] [lf][lf]",
-         "Sni":"google.com"
-      },
-        {
-         "serverType":0,
-         "Name":"SERVER 03",
-         "Flag":"us",
-         "Info":"SSH",
-         "tunnelType":2,
+         "tunnelType":3,
          "ServerHost":"am1.vpnjantit.com",
          "ServerPort":"80",
          "ProxyHost":"104.26.15.206",
@@ -49,11 +19,11 @@
          "Username":"",
          "Password":"",
          "Payload":"MERGE / HTTP/1.1[crlf]Host: am1.vpnjantit.com[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
-         "Sni":"google.com"
+         "Sni":"whatsapp.com"
       },
       {
          "serverType":0,
-         "Name":"SERVER 04",
+         "Name":"SERVER 02",
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":1,
