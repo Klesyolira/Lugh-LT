@@ -1,6 +1,6 @@
 {
    
-   "Version":"36",
+   "Version":"37",
    "Ads":"off",
    "UpdateUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Config.json",
    "ReleaseNotes":"Default Notes",
@@ -27,14 +27,48 @@
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":1,
-         "ServerHost":"cake.ethiodragon.sbs",
+         "ServerHost":"vps.smartxearnz.shop",
          "ServerPort":"22",
-         "ProxyHost":"cake.ethiodragon.sbs",
+         "ProxyHost":"vps.smartxearnz.shop",
          "ProxyPort":"80",
          "Username":"",
          "Password":"",
-         "Payload":"MERGE / HTTP/1.1[crlf]Host: cake.ethiodragon.sbs[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
+         "Payload":"MERGE / HTTP/1.1[crlf]Host: vps.smartxearnz.shop[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
+         "Sni":"google.com"
+      },
+      
+      {
+         "serverType":0,
+         "Name":"SERVER 03",
+         "Flag":"us",
+         "Info":"SSH",
+         "tunnelType":1,
+         "ServerHost":"vps.smartxearnz.shop",
+         "ServerPort":"22",
+         "ProxyHost":"vps.smartxearnz.shop",
+         "ProxyPort":"80",
+         "Username":"",
+         "Password":"",
+         "Payload":"MERGE / HTTP/1.1[crlf]Host: applynow.hdfc.bank.in[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
+         "Sni":"google.com"
+      },   
+              
+      {
+         "serverType":0,
+         "Name":"SERVER 04",
+         "Flag":"us",
+         "Info":"SSH",
+         "tunnelType":1,
+         "ServerHost":"applynow.hdfc.bank.in",
+         "ServerPort":"22",
+         "ProxyHost":"applynow.hdfc.bank.in",
+         "ProxyPort":"80",
+         "Username":"",
+         "Password":"",
+         "Payload":"GET / HTTP/1.1[crlf]Host: vps.smartxearnz.shop[crlf]Upgrade: websocket[crlf][crlf]",
          "Sni":"google.com"
       }    
+      
    ]
 }
+
