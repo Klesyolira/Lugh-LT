@@ -1,6 +1,6 @@
 {
    
-   "Version":"37",
+   "Version":"38",
    "Ads":"off",
    "UpdateUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Config.json",
    "ReleaseNotes":"Default Notes",
@@ -12,9 +12,9 @@
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":3,
-         "ServerHost":"cake.ethiodragon.sbs",
+         "ServerHost":"g.gugu55.online",
          "ServerPort":"22",
-         "ProxyHost":"148.113.138.111",
+         "ProxyHost":"g.gugu55.online",
          "ProxyPort":"443",
          "Username":"",
          "Password":"",
@@ -27,13 +27,13 @@
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":1,
-         "ServerHost":"vps.smartxearnz.shop",
+         "ServerHost":"g.gugu55.online",
          "ServerPort":"22",
-         "ProxyHost":"vps.smartxearnz.shop",
+         "ProxyHost":"g.gugu55.online",
          "ProxyPort":"80",
          "Username":"",
          "Password":"",
-         "Payload":"MERGE / HTTP/1.1[crlf]Host: vps.smartxearnz.shop[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
+         "Payload":"MERGE / HTTP/1.1[crlf]Host: g.gugu55.online[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
          "Sni":"google.com"
       },
       
@@ -43,13 +43,13 @@
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":1,
-         "ServerHost":"vps.smartxearnz.shop",
+         "ServerHost":"g.gugu55.online",
          "ServerPort":"22",
-         "ProxyHost":"vps.smartxearnz.shop",
+         "ProxyHost":"g.gugu55.online",
          "ProxyPort":"80",
          "Username":"",
          "Password":"",
-         "Payload":"MERGE / HTTP/1.1[crlf]Host: applynow.hdfc.bank.in[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
+         "Payload":"MERGE / HTTP/1.1[crlf]Host: g.gugu55.online[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
          "Sni":"google.com"
       },   
               
@@ -59,13 +59,13 @@
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":1,
-         "ServerHost":"applynow.hdfc.bank.in",
+         "ServerHost":"g.gugu55.online",
          "ServerPort":"22",
-         "ProxyHost":"applynow.hdfc.bank.in",
+         "ProxyHost":"g.gugu55.online",
          "ProxyPort":"80",
          "Username":"",
          "Password":"",
-         "Payload":"GET / HTTP/1.1[crlf]Host: vps.smartxearnz.shop[crlf]Upgrade: websocket[crlf][crlf]",
+         "Payload":"GET / HTTP/1.1[crlf]Host: g.gugu55.online[crlf]Upgrade: websocket[crlf][crlf]",
          "Sni":"google.com"
       }    
       
