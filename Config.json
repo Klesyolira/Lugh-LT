@@ -1,6 +1,6 @@
 {
    
-   "Version":"30",
+   "Version":"32",
    "Ads":"off",
    "UpdateUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Config.json",
    "ReleaseNotes":"Default Notes",
@@ -12,14 +12,14 @@
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":3,
-         "ServerHost":"am1.vpnjantit.com",
+         "ServerHost":"ovh.mtt90.net",
          "ServerPort":"22",
-         "ProxyHost":"104.26.15.206",
+         "ProxyHost":"148.113.138.111",
          "ProxyPort":"443",
          "Username":"",
          "Password":"",
-         "Payload":"MERGE / HTTP/1.1[crlf]Host: am1.vpnjantit.com[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
-         "Sni":"www.whatsapp.com"
+         "Payload":"MERGE / HTTP/1.1[crlf]Host: ovh.mtt90.net[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
+         "Sni":"whatsapp.com"
       },
       {
          "serverType":0,
@@ -27,13 +27,13 @@
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":1,
-         "ServerHost":"am1.vpnjantit.com",
+         "ServerHost":"ovh.mtt90.net",
          "ServerPort":"22",
          "ProxyHost":"104.26.13.206",
          "ProxyPort":"80",
          "Username":"",
          "Password":"",
-         "Payload":"MERGE / HTTP/1.1[crlf]Host: am1.vpnjantit.com[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
+         "Payload":"MERGE / HTTP/1.1[crlf]Host: ovh.mtt90.net[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
          "Sni":"google.com"
       }    
    ]
