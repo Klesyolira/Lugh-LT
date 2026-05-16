@@ -7,7 +7,7 @@
    "Servers":[
       {
          "serverType":0,
-         "Name":"SERVER 02",
+         "Name":"SERVER 01",
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":2,
@@ -22,7 +22,7 @@
       },
       {
          "serverType":0,
-         "Name":"SERVER 03",
+         "Name":"SERVER 02",
          "Flag":"us",
          "Info":"SSH",
          "tunnelType":1,
