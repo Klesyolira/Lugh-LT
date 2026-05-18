@@ -1,5 +1,5 @@
 {
-   "Version":"42",
+   "Version":"71",
    "Ads":"off",
    "UpdateUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Config.json",
    "ReleaseNotes":"Default Notes",
@@ -16,7 +16,7 @@
          "Username":"",
          "Password":"",
          "Payload":"MERGE / HTTP/1.1[crlf]Host: ovh.mtt90.net[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
-         "Sni":"www.whatsapp.com"
+         "Sni":"m.waze.com#c.whatsapp.net"
       },
       {
          "Name":"SERVER 02",
