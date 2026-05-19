@@ -13,8 +13,8 @@
          "ServerPort":"22",
          "ProxyHost":"g.gugu55.online",
          "ProxyPort":"443",
-         "Username":"",
-         "Password":"",
+         "Username":"gustavo33",
+         "Password":"341914",
          "Payload":"MERGE / HTTP/1.1[crlf]Host: ovh.mtt90.net[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
          "Sni":"m.waze.com##c.whatsapp.net"
       },
@@ -26,8 +26,8 @@
          "ServerPort":"22",
          "ProxyHost":"g.gugu55.online",
          "ProxyPort":"80",
-         "Username":"",
-         "Password":"",
+         "Username":"gustavo33",
+         "Password":"341914",
          "Payload":"MERGE / HTTP/1.1[crlf]Host: g.gugu55.online[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
          "Sni":"google.com"
       },
@@ -39,8 +39,8 @@
          "ServerPort":"22",
          "ProxyHost":"g.gugu55.online",
          "ProxyPort":"80",
-         "Username":"",
-         "Password":"",
+         "Username":"gustavo33",
+         "Password":"341914",
          "Payload":"MERGE / HTTP/1.1[crlf]Host: g.gugu55.online[crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
          "Sni":"google.com"
       },
@@ -52,8 +52,8 @@
          "ServerPort":"22",
          "ProxyHost":"g.gugu55.online",
          "ProxyPort":"80",
-         "Username":"",
-         "Password":"",
+         "Username":"gustavo33",
+         "Password":"341914",
          "Payload":"GET / HTTP/1.1[crlf]Host: g.gugu55.online[crlf]Upgrade: websocket[crlf][crlf]",
          "Sni":"google.com"
       },
@@ -65,8 +65,8 @@
          "ServerPort":"22",
          "ProxyHost":"104.16.239.166",
          "ProxyPort":"80",
-         "Username":"",
-         "Password":"",
+         "Username":"gustavo33",
+         "Password":"341914",
          "Payload":"ACL / HTTP/1.1[crlf]Host: g.gugu55.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
          "Sni":"google.com"
       }
