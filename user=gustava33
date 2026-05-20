@@ -1,0 +1,7 @@
+{
+  "username": "string",
+  "count_connection": "string_ou_int",
+  "expiration_date": "string",
+  "expiration_days": "string_ou_int",
+  "limiter_user": "string_ou_int"
+}
