@@ -1,10 +1,10 @@
 {
-   "Version":"1.0.6",
+   "Version":"1.0.7",
    "Ads":"off",
    "UIMode":"html",
    "1HtmlUIUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/UI%20HTML",
-   "HtmlUIUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Home_yumeko",
-   "7HtmlUIUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Gustavo%20html",
+   "9HtmlUIUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Home_yumeko",
+   "HtmlUIUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Gustavo%20html",
    "UpdateUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Config.json",
    "ReleaseNotes":"LUGH DEVELOP NOTES",
    "Tema":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Temas",
