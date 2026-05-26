@@ -1,10 +1,10 @@
 {
-   "Version":"1.0.11",
+   "Version":"1.0.12",
    "Ads":"off",
    "UIMode":"html",
    "HtmlUIUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/HTML%20TESTE%20YUMEKO",
-   "9HtmlUIUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Home_yumeko",
-   "9HtmlUIUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Gustavo%20html",
+   "HtmlUIUrl2":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Home_yumeko",
+   "HtmlUIUrl3":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Gustavo%20html",
    "UpdateUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Config.json",
    "ReleaseNotes":"LUGH DEVELOP NOTES",
    "Tema":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Temas",
@@ -62,7 +62,10 @@
          "Name":"SERVIDOR VMESS 01",
          "Flag":"br",
          "FlagUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/br.png",
-         "Info":"V2RAY",
+         "Info":"XRAY",
+         "ServerHost":"gr2.vpnjantit.com",
+         "ServerPort":"10001",
+         "CheckUser":"http://152.70.220.155:5959/checkUser",
          "USER":"Xray",
          "PASS":"",
          "v2ray":"vmess://eyJ0eXBlIjogIm5vbmUiLCAicGF0aCI6ICIvdnBuamFudGl0IiwgImhvc3QiOiAiIiwgIm5ldCI6ICJ3cyIsICJwb3J0IjogIjEwMDAxIiwgImFkZCI6ICJncjIudnBuamFudGl0LmNvbSIsICJwcyI6ICJMdWdoLXZwbmphbnRpdC5jb20iLCAidGxzIjogInRscyIsICJhaWQiOiAiMCIsICJ2IjogIjIiLCAiaWQiOiAiZWIwYTE5MGMtNTc4Yi0xMWYxLWI1OGItZWYwZDE2YjUyODMwIn0=",
@@ -72,11 +75,16 @@
       {
          "Name":"SERVIDOR VMESS 02",
          "Flag":"br",
-         "FlagUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/br.png",                  
-         "Info":"V2RAY",
+         "FlagUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/br.png",
+         "Info":"XRAY",
+         "ServerHost":"gr2.vpnjantit.com",
+         "ServerPort":"10000",
+         "CheckUser":"http://152.70.220.155:5959/checkUser",
          "USER":"Xray",
          "PASS":"",
-         "v2ray":"vmess://eyJ0eXBlIjogIm5vbmUiLCAicGF0aCI6ICIvdnBuamFudGl0IiwgImhvc3QiOiAiIiwgIm5ldCI6ICJ3cyIsICJwb3J0IjogIjEwMDAwIiwgImFkZCI6ICJncjIudnBuamFudGl0LmNvbSIsICJwcyI6ICJMdWdoLXZwbmphbnRpdC5jb20iLCAidGxzIjogIiIsICJhaWQiOiAiMCIsICJ2IjogIjIiLCAiaWQiOiAiZWIwYTE5MGMtNTc4Yi0xMWYxLWI1OGItZWYwZDE2YjUyODMwIn0="
+         "v2ray":"vmess://eyJ0eXBlIjogIm5vbmUiLCAicGF0aCI6ICIvdnBuamFudGl0IiwgImhvc3QiOiAiIiwgIm5ldCI6ICJ3cyIsICJwb3J0IjogIjEwMDAwIiwgImFkZCI6ICJncjIudnBuamFudGl0LmNvbSIsICJwcyI6ICJMdWdoLXZwbmphbnRpdC5jb20iLCAidGxzIjogIiIsICJhaWQiOiAiMCIsICJ2IjogIjIiLCAiaWQiOiAiZWIwYTE5MGMtNTc4Yi0xMWYxLWI1OGItZWYwZDE2YjUyODMwIn0=",
+         "Payload":"",
+         "Sni":""
       }
    ],
    "MultiServs":[
