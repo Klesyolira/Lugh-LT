@@ -1,5 +1,5 @@
 {
-   "Version":"1.0.14",
+   "Version":"1.0.15",
    "Ads":"off",
    "UIMode":"nativo",
    "HtmlUIUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/HTML%20TESTE%20YUMEKO",
@@ -59,7 +59,7 @@
          "Sni":"google.com"
       },
       {
-         "Name":"SERVIDOR VMESS 01",
+         "Name":"SERVIDOR VLESS 01",
          "Flag":"br",
          "FlagUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/br.png",
          "Info":"V2RAY",
@@ -68,7 +68,7 @@
          "CheckUser":"http://152.70.220.155:5959/checkUser",
          "USER":"Xray",
          "PASS":"",
-         "v2ray":"vmess://eyJ0eXBlIjogIm5vbmUiLCAicGF0aCI6ICIvdnBuamFudGl0IiwgImhvc3QiOiAiIiwgIm5ldCI6ICJ3cyIsICJwb3J0IjogIjEwMDAxIiwgImFkZCI6ICJncjIudnBuamFudGl0LmNvbSIsICJwcyI6ICJMdWdoLXZwbmphbnRpdC5jb20iLCAidGxzIjogInRscyIsICJhaWQiOiAiMCIsICJ2IjogIjIiLCAiaWQiOiAiZWIwYTE5MGMtNTc4Yi0xMWYxLWI1OGItZWYwZDE2YjUyODMwIn0=",
+         "v2ray":"vless://7110ce44-59e2-11f1-bb68-00163c8f98e8@br6.vpnjantit.com:443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=QXQg3qOYGXfJs1xwDIEI69cpaWnGxCbk8x8feercFkU&sid=b22b045edf8efb40&flow=xtls-rprx-vision#Lugh-vpnjantit.com",
          "Payload":"",
          "Sni":""
       },
@@ -82,10 +82,42 @@
          "CheckUser":"http://152.70.220.155:5959/checkUser",
          "USER":"Xray",
          "PASS":"",
-         "v2ray":"vmess://eyJ0eXBlIjogIm5vbmUiLCAicGF0aCI6ICIvdnBuamFudGl0IiwgImhvc3QiOiAiIiwgIm5ldCI6ICJ3cyIsICJwb3J0IjogIjEwMDAwIiwgImFkZCI6ICJncjIudnBuamFudGl0LmNvbSIsICJwcyI6ICJMdWdoLXZwbmphbnRpdC5jb20iLCAidGxzIjogIiIsICJhaWQiOiAiMCIsICJ2IjogIjIiLCAiaWQiOiAiZWIwYTE5MGMtNTc4Yi0xMWYxLWI1OGItZWYwZDE2YjUyODMwIn0=",
+         "v2ray":"vmess://eyJhZGQiOiJ1c3YtMy5vcGVudjJyYXkuY29tIiwiYWlkIjoiMTYiLCJob3N0IjoiY3JlYXRpdmVjb21tb25zLm9yZyIsImlkIjoiNGYxN2UxNzMtNGFmOS01MDQxLTk2NjItZjZjMjdlMGRlY2ZkIiwibmV0Ijoid3MiLCJwYXRoIjoiL29wZW50dW5uZWw/dXNlcj1vcGVudHVubmVsLm5ldC1sdWdoIiwicG9ydCI6IjgwIiwicHMiOiJvcGVudHVubmVsLm5ldC1sdWdoIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+         "Payload":"",
+         "Sni":""
+      },
+      
+      {
+         "Name":"SERVIDOR VMESS 03",
+         "Flag":"br",
+         "FlagUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/br.png",
+         "Info":"V2RAY",
+         "ServerHost":"gr2.vpnjantit.com",
+         "ServerPort":"10001",
+         "CheckUser":"http://152.70.220.155:5959/checkUser",
+         "USER":"Xray",
+         "PASS":"",
+         "v2ray":"vmess://eyJ0eXBlIjogIm5vbmUiLCAicGF0aCI6ICIvdnBuamFudGl0IiwgImhvc3QiOiAiIiwgIm5ldCI6ICJ3cyIsICJwb3J0IjogIjEwMDAxIiwgImFkZCI6ICJncjIudnBuamFudGl0LmNvbSIsICJwcyI6ICJMdWdoLXZwbmphbnRpdC5jb20iLCAidGxzIjogInRscyIsICJhaWQiOiAiMCIsICJ2IjogIjIiLCAiaWQiOiAiZWIwYTE5MGMtNTc4Yi0xMWYxLWI1OGItZWYwZDE2YjUyODMwIn0=",
+         "Payload":"",
+         "Sni":""
+      },
+      {
+         "Name":"SERVIDOR XRAY 04",
+         "Flag":"br",
+         "FlagUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/br.png",
+         "Info":"XRAY",
+         "ServerHost":"gr2.vpnjantit.com",
+         "ServerPort":"10000",
+         "CheckUser":"http://152.70.220.155:5959/checkUser",
+         "USER":"V2ray",
+         "PASS":"",
+         "v2ray":"vmess://eyJhZGQiOiJ1c3YtMy5vcGVudjJyYXkuY29tIiwiYWlkIjoiMTYiLCJob3N0IjoiY3JlYXRpdmVjb21tb25zLm9yZyIsImlkIjoiNGYxN2UxNzMtNGFmOS01MDQxLTk2NjItZjZjMjdlMGRlY2ZkIiwibmV0Ijoid3MiLCJwYXRoIjoiL29wZW50dW5uZWw/dXNlcj1vcGVudHVubmVsLm5ldC1sdWdoIiwicG9ydCI6IjgwIiwicHMiOiJvcGVudHVubmVsLm5ldC1sdWdoIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
          "Payload":"",
          "Sni":""
       }
+      
+      
+      
    ],
    "MultiServs":[
       {
