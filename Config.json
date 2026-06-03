@@ -1,7 +1,7 @@
 {
-   "Version": "1.0.27",
+   "Version": "1.0.28",
    "Ads": "off",
-   "UIMode": "nativo",
+   "UIMode": "html",
    "HtmlUIUrl3": "https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/HTML%20TESTE%20YUMEKO",
    "HtmlUIUrl2": "https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Home_yumeko",
    "HtmlUIUrl": "https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Tema%20Yumeko%20ym",
